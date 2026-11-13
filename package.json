@@ -13,7 +13,7 @@
 	"dependencies": {
 		"@hono/node-server": "^2.1.6",
 		"ejs": "^7.0.2",
-		"hono": "^4.13.14"
+		"hono": "^4.13.16"
 	},
 	"devDependencies": {
 		"@types/ejs": "^3.1.5",
